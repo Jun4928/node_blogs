@@ -1,4 +1,4 @@
-# Blogs API for Node.js Session
+# Blogs API 
 
 ## Technical Stack
 - Node.js
